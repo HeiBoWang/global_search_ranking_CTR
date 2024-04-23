@@ -1,0 +1,11 @@
+deepctr==0.9.3
+Flask==1.1.2
+pandas
+PyHive
+redis
+tensorflow==1.15.0
+gunicorn
+scikit-learn
+gevent
+thrift
+pip==21.3
